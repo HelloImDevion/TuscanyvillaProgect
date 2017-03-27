@@ -1,0 +1,147 @@
+﻿body {
+}
+h1{
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    background-color:darkgray;
+    margin:auto;
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    background-color:darkgray;
+    margin:auto;
+    padding-bottom:70px;
+}
+
+div.page-header{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    background-color: darkgray;
+   
+}
+.sidePicThem {
+    background-image: url('../Images/tuscany-villas-sant-anna.jpg');
+    width: auto;
+    height: 348px;
+    background-size:cover;
+    text-align:center;
+    
+}
+.textbox{
+    background-color: lightgray;
+    color:black;
+    text-align:center;
+    background-attachment: fixed;
+    background-position:center;
+    margin: 0px;
+    border-top: 0px;
+    border: 1px solid black;
+    opacity:0.6;
+}
+.page-footer {
+    background-color: lightgrey;
+    border-bottom: darkgray 20px;
+    padding-bottom:20px;
+    margin:auto;
+}
+
+.la {
+    background-image: url('../Images/314-348x348.jpg');
+     width:auto;
+    height:348px;
+    text-align: center;
+}
+.paola {
+    background-image: url('../Images/3b-348x348.jpg');
+     width:auto;
+    height:348px;
+     text-align:center;
+}
+
+.gigli {
+    background-image: url('../Images/42-348x348.jpg');
+      width:auto;
+    height:348px;
+     text-align:center;
+}
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+    padding-top:0;
+    padding-bottom:0;
+}
+
+.Villamap {
+    background-image: url('../Images/Versilia.jpg');
+   width:auto;
+   height:348px;
+    
+}
+.sidePic1 {
+    background-image: url('../Images/Villa-Vanna-231-348x348.jpg');
+      width:auto;
+    height:348px;
+    text-align: center;
+    margin:0px;
+    background-size: cover;
+}
+.sidePic2 {
+    background-image: url('../Images/Villa-Rucellai-Toscani-2750-2-348x348.jpg');
+      width:auto;
+    height:348px;
+     text-align: center;
+     margin: 0px;
+     background-size: cover;
+}
+.sidePic3 {
+    background-image: url('../Images/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+     width:auto;
+    height:348px;
+     text-align:center;
+     margin: 0px;
+     background-size: cover;
+}
+.sidePic4 {
+    background-image: url('../Images/img-thing (1).jpg');
+     width:auto;
+    height:348px;
+     text-align:center;
+     margin: 0px;
+     background-size: cover;
+     
+}
+.maptext{
+     background-color: white;
+    background-position:center;
+    text-align:center;
+    margin: 0px;
+    border-top: 0px;
+    border: 1px solid black;
+    opacity:0.6;
+}
+.previewThem{
+   text-anchor:middle;
+   text-align:center;
+   margin:auto;
+}
+.previewThem2{
+    text-anchor:middle;
+    text-align: center;
+    margin:auto;
+}
+.previewThem3{
+    text-anchor:middle;
+    text-align:center;
+    margin:auto;
+}
+.previewThem4{
+    text-anchor:middle;
+    text-align:center;
+    margin:auto
+}
+ul.nav.navbar-nav.navbar-header {
+    margin-left: 28%;
+}
